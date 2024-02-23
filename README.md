@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/pahuni232004/ecommerce-fashion-store/assets/53259638/44354ea9-da9b-44cb-9970-e00c41cd98f3)
+
+![image](https://github.com/pahuni232004/ecommerce-fashion-store/assets/53259638/765b34bd-599a-4147-bf6e-361ef88132ea)
+
+![image](https://github.com/pahuni232004/ecommerce-fashion-store/assets/53259638/2817de82-6bda-4282-8e27-ec892fab521a)
+
+
+
 
 ## Available Scripts
 
